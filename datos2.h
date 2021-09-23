@@ -1,7 +1,5 @@
 /*
-Eduar Ivan Forero Espinosa
-Juan Pablo Giraldo Collazos
-Cristhian Fernando Montejo Martínez
+Se toma este archivo como demo para probar GIT
 */
 
 #include <string.h>
