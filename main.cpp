@@ -1,12 +1,6 @@
 /*
-Eduar Ivan Forero Espinosa
-Juan Pablo Giraldo Collazos
-Cristhian Fernando Montejo Martínez
-
-
-La matriz es 5x20 = 100 datos.
+Se toma este archivo como demo para probar GIT
 */
-
 #include <iostream>
 #include <string.h>
 #include <conio.h>
@@ -114,12 +108,12 @@ int main(int argc, char **argv)
 			break;
 
 		case 2:
-			
+
 			imprimirTodoF(PersonasF, LIM / 2);
 			imprimirTodoB(PersonasB, LIM / 2);
 			imprimirTodoT(PersonasT, LIM / 2);
 			imprimirTodoN(PersonasN, LIM / 2);
-			
+
 			//strcpy(imprimirTodoF(PersonasF, LIM / 2),imprimirTodoB(PersonasB, LIM / 2));
 			break;
 		}
