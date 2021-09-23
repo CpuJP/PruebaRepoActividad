@@ -29,14 +29,14 @@ int main(int argc, char **argv)
 	do
 	{
 		cout << endl;
-		cout << "**************************************" << endl;
-		cout << "*          Bienvenido usuario        *" << endl;
-		cout << "**************************************" << endl;
-		cout << "*  Seleccione la opcion:             *" << endl;
-		cout << "*  1. Ingresar persona               *" << endl;
-		cout << "*  2. Mostrar todo                   *" << endl;
-		cout << "*  3. Salir                          *" << endl;
-		cout << "**************************************" << endl;
+		cout << "***************************************" << endl;
+		cout << "*          Bienvenido usuario         *" << endl;
+		cout << "***************************************" << endl;
+		cout << "*  Seleccione la opcion:              *" << endl;
+		cout << "*  1. Ingresar persona                *" << endl;
+		cout << "*  2. Mostrar todo                    *" << endl;
+		cout << "*  3. Salir                           *" << endl;
+		cout << "***************************************" << endl;
 		cin >> opcion;
 		switch (opcion)
 		{
